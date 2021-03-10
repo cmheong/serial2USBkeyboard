@@ -1,6 +1,9 @@
 # serial2USBkeyboard
+
 Microchip PIC18F14K50 code to convert serial ASCII to USB HID Keyboard Scan Codes 
 Uses minicom on the USB CDC Serial Port side.
+
+
 Key mapping:
 CapsLock     - Ctrl N
 Ctrl-Alt-Del - Ctrl O
