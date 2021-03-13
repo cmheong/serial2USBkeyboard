@@ -4,6 +4,8 @@ Microchip PIC18F14K50 code to convert serial ASCII to USB HID Keyboard Scan Code
 Uses minicom on the USB CDC Serial Port side.
 
 Compile with Microchip MPLAB for Low Pin Count Development Board (PIC18F14K50)
+Blog: https://cmheong.blogspot.com/2021/03/turning-laptop-into-keyboard-usb-cdc.html
+Youtube" https://www.youtube.com/watch?v=jUqGSsHYgzE&t=3s
 
 Key mapping:
 CapsLock     - Ctrl N,
